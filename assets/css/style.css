@@ -1,0 +1,40 @@
+.letra{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+}  
+.container-fluid{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.navbar{
+    background-color: #28A745 !important;
+}
+.formulario{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+.form{
+    background-color: #28A745 !important;
+}
+.btn{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    
+}
+.relleno{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.boton{
+    text-align: center;
+}
